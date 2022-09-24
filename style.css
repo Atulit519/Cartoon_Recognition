@@ -1,0 +1,17 @@
+label{
+    font-size: 20px;
+}
+
+#items{
+    background-color: aquamarine;
+    width: 80%;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 10px 20px grey;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
